@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1049401460345",
+    "firebase_url": "https://fcmtest-78ebc.firebaseio.com",
+    "project_id": "fcmtest-78ebc",
+    "storage_bucket": "fcmtest-78ebc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049401460345:android:5136fb1eec303a91",
+        "android_client_info": {
+          "package_name": "c.gingdev.pushmessage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1049401460345-n9hescur10gapc4qvoq27oipdkbt8jfo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "c.gingdev.pushmessage",
+            "certificate_hash": "a4cc5e033e8cc6593e8d7c8e4d7dfeeb641e6725"
+          }
+        },
+        {
+          "client_id": "1049401460345-fjsifsap3r7nefg6ujutav7dl6uhfbq7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3N2syTZyOgOo67beNbekIhdwxt9KjIlg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1049401460345-fjsifsap3r7nefg6ujutav7dl6uhfbq7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
